@@ -1,9 +1,16 @@
-## Henryque Vitoriano
-Sou estudante de programação. Estou sempre em busca de novos aprendizados e desafios para evoluir na área de desenvolvimento de software.
+# Olá, eu sou o Henryque Vitoriano 👋
+
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Atualmente focado em Java, mas sempre curioso para aprender novas tecnologias
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
+
+  <div style="display: inline-block;">
+    <img alt="IntelliJ IDEA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-plain.svg" />
+  </div>
   
   ##
  
