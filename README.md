@@ -8,10 +8,6 @@
   <img align="center" alt="Java" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 
-  <div style="display: inline-block;">
-    <img alt="IntelliJ IDEA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-plain.svg" />
-  </div>
-  
   ##
  
 <div> 
